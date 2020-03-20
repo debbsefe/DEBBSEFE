@@ -1,5 +1,5 @@
-Full name: Eferha Mamus
-Email Address: eferhamamus@gmail.com
-Slack username: debbsefe
-Tracks: Frontend, Backend
-Courses: JS, PHP, NODE.JS
+Full name: Eferha Mamus <br/>
+Email Address: eferhamamus@gmail.com <br/>
+Slack username: debbsefe <br/>
+Tracks: Frontend, Backend <br/>
+Courses: JS, PHP, NODE.JS <br/>
